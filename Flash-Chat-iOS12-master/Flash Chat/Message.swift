@@ -7,7 +7,9 @@
 class Message {
     
     //TODO: Messages need a messageBody and a sender variable
-    
+// it will hold and represent the messages
+    var sender : String = ""
+    var messageBody : String = ""
     
     
 }
